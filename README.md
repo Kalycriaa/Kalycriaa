@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Kaio Silva Nascimento, tenho 20 anos e sou natural do Maranhão. Concluí o ensino médio no Décio Ferraz Alvim, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicid. SSou apaixonado por tecnologia e estou em busca de oportunidades para expandir meu networking dentro da comunidade, além de ampliar meus conhecimentos na área tecnológica. 
+Me chamo Kaio Silva Nascimento, tenho 20 anos e sou natural do Maranhão. Concluí o ensino médio no Décio Ferraz Alvim, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicid. Sou apaixonado por tecnologia e estou em busca de oportunidades para expandir meu networking dentro da comunidade, além de ampliar meus conhecimentos na área tecnológica. 
 
 
 
