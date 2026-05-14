@@ -22,7 +22,7 @@
 ## 🚀 Sobre mim
 
 - 🐍 Foco em **Backend com Python e Flask** — APIs RESTful, autenticação, integração de serviços
-- 🗄️Experiência prática com **MySQL**, modelagem de bancos relacionais, criação de queries SQL e integração utilizando Flask e SQLAlchemy
+- 🗄️  Experiência prática com **MySQL**, modelagem de bancos relacionais, criação de queries SQL e integração utilizando Flask e SQLAlchemy
 - 🏥 Projeto real: **TaskFlow** — plataforma de turnos hospitalares com Python
 - 📚 Cursando **Gestão da Tecnologia da Informação** na Unicid
 - 📍 São Paulo, SP — disponível para trabalho **presencial, híbrido ou remoto**
