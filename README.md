@@ -26,7 +26,7 @@
 - 🏥 Projeto real: **TaskFlow** — plataforma de turnos hospitalares com Python
 - 📚 Cursando **Gestão da Tecnologia da Informação** na Unicid
 - 📍 São Paulo, SP — disponível para trabalho **presencial, híbrido ou remoto**
-- 💼 Aberto a propostas **CLT** ou **ESTÁGIO** — pode me chamar!
+- 💼 Aberto a propostas **CLT** ou **ESTÁGIO** 
 
 ---
 
