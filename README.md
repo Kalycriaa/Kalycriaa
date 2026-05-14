@@ -92,11 +92,9 @@
     height="165em"
     src="https://streak-stats.demolab.com?user=Kalycriaa&theme=tokyonight&hide_border=true&locale=pt_BR"
   />
-  <img 
-    height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalycriaa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=2"
-  />
 </p>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Kalycriaa&theme=tokyo-night&hide_border=true)
 ---
 
 ## 📬 Contato
