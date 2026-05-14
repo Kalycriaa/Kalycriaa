@@ -94,10 +94,9 @@
   />
   <img 
     height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalycriaa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalycriaa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=2"
   />
 </p>
-
 ---
 
 ## 📬 Contato
